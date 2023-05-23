@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>561961894967-bgigvt93ig9fnq0olq7loloapmspa5lg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561961894967-bgigvt93ig9fnq0olq7loloapmspa5lg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATfkFKrmGY8Z3J1AqJjp6n9bv-nx2lCvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561961894967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>le-dinh-dong.IOS-App</string>
+	<key>PROJECT_ID</key>
+	<string>travel-app-928a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-app-928a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561961894967:ios:737f46974a9d351835abb2</string>
+</dict>
+</plist>
